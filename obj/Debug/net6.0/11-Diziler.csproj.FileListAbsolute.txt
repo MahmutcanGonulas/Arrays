@@ -1,0 +1,15 @@
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\11-Diziler\obj\Debug\net6.0\11-Diziler.csproj.AssemblyReference.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\11-Diziler\obj\Debug\net6.0\11-Diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\11-Diziler\obj\Debug\net6.0\11-Diziler.AssemblyInfoInputs.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\11-Diziler\obj\Debug\net6.0\11-Diziler.AssemblyInfo.cs
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\11-Diziler\obj\Debug\net6.0\11-Diziler.csproj.CoreCompileInputs.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\11-Diziler\bin\Debug\net6.0\11-Diziler.exe
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\11-Diziler\bin\Debug\net6.0\11-Diziler.deps.json
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\11-Diziler\bin\Debug\net6.0\11-Diziler.runtimeconfig.json
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\11-Diziler\bin\Debug\net6.0\11-Diziler.dll
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\11-Diziler\bin\Debug\net6.0\11-Diziler.pdb
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\11-Diziler\obj\Debug\net6.0\11-Diziler.dll
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\11-Diziler\obj\Debug\net6.0\refint\11-Diziler.dll
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\11-Diziler\obj\Debug\net6.0\11-Diziler.pdb
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\11-Diziler\obj\Debug\net6.0\11-Diziler.genruntimeconfig.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\11-Diziler\obj\Debug\net6.0\ref\11-Diziler.dll
